@@ -1,0 +1,17 @@
+body{
+    background-color: red;
+    color: white;
+}
+
+.heading{
+    width: 100%;
+    font-size: 40px;
+    font-weight: bold;
+    color: blue;
+    font-family: 'Bungee';
+}
+
+.name_of_objects{
+    font-size: 25px;
+    font-family: 'Rampart One';
+}
